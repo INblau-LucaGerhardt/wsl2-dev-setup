@@ -25,3 +25,9 @@ winget install -i --id Microsoft.RemoteDesktopClient
 
 # install 7zip
 winget install -i --id 7zip.7zip
+
+# install WinSCP
+winget install -i --id WinSCP.WinSCP
+
+# install Putty
+winget install -i --id PuTTY.PuTTY
