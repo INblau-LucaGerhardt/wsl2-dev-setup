@@ -31,3 +31,6 @@ winget install -i --id WinSCP.WinSCP
 
 # install Putty
 winget install -i --id PuTTY.PuTTY
+
+# install Greenshot
+winget install -i --id Greenshot.Greenshot
