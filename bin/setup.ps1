@@ -34,3 +34,33 @@ winget install -i --id PuTTY.PuTTY
 
 # install Greenshot
 winget install -i --id Greenshot.Greenshot
+
+# install Slack
+winget install -i --id SlackTechnologies.Slack
+
+# install TeamViewer
+winget install -i --id TeamViewer.TeamViewer
+
+# install Oh My Posh
+winget install -i --id JanDeDobbeleer.OhMyPosh
+
+# install OpenVPN
+winget install -i --id OpenVPN
+
+# install Notepad++
+winget install -i --id Notepad++.Notepad++
+
+# install Thunderbird
+winget install -i --id Mozilla.Thunderbird
+
+# install Chrome
+winget install -i --id Google.Chrome
+
+# install Foxit PDF Reader
+winget install -i --id Foxit.FoxitReader
+
+# install LibreOffice
+winget install -i --id TheDocumentFoundation.LibreOffice
+
+# install ESET Security
+winget install -i --id ESET.Security
